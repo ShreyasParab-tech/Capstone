@@ -2,7 +2,7 @@ function preload(){
   audio = loadSound("corona.mp3")
   img = loadImage("corona.png")
   p = loadImage("persons.png")
-  go = loadImage("go.jpg")
+  
   
 }
 
